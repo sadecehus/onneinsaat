@@ -23,7 +23,7 @@ export default function HomePage() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/x.png"
+            src="/X.png"
             alt="Construction site"
             fill
             className="object-cover transition-transform opacity-80 duration-[10s] hover:scale-105"
