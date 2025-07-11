@@ -63,7 +63,7 @@ export function Footer() {
 
         <ScrollReveal direction="up" className="border-t border-gray-200 mt-6 sm:mt-8 pt-6 sm:pt-8 text-center">
           <p className="text-gray-600 text-xs sm:text-sm">
-            © {new Date().getFullYear()} ÖN-NE İnşaat. Tüm hakları saklıdır. <a href="https://huskocaturk.vercel.app"><span className="text-teal-600 font-bold">Hüseyin Kocatürk</span></a> tarafından geliştirilmiştir.
+            © {new Date().getFullYear()} ÖN-NE İnşaat. Tüm hakları saklıdır. <a href="https://huskocaturk.vercel.app"><span className="text-teal-600 font-bold">Hüseyin Kocatürk</span></a> ve <span className="text-lime-600 font-bold">Abdullah Aldemir</span> tarafından geliştirilmiştir.
           </p>
         </ScrollReveal>
       </div>

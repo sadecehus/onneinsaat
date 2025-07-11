@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'ON-NE İnşaat',
-  description: 'ON-NE İnşaat - Modern Yapılar, Güvenli Gelecek Hüseyin Kocatürk - Frontend Developer',
+  description: 'ON-NE İnşaat - Modern Yapılar, Güvenli Gelecek',
   generator: 'Hüseyin Kocatürk',
   icons: {
     icon: '/images/onne-logo.png',
