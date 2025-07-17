@@ -94,9 +94,9 @@ export const metadata: Metadata = {
     'msapplication-TileColor': '#1f2937',
   },
   icons: {
-    icon: '/images/onne-logo.png',
-    shortcut: '/images/onne-logo.png',
-    apple: '/images/onne-logo.png',
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico', 
   },
 }
 
