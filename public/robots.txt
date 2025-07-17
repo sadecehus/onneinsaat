@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://onneinsaat.com
+
+# Sitemaps
+Sitemap: https://onneinsaat.com/sitemap.xml
