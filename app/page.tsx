@@ -36,7 +36,7 @@ export default function HomePage() {
           <ScrollReveal direction="down" duration={800}>
             <div className="flex items-center justify-center mb-6 sm:mb-8">
               <Image
-                src="/images/onne-logo.png"
+                src="/onneyeni.png"
                 alt="ÖN-NE İnşaat"
                 width={300}
                 height={150}
@@ -105,12 +105,11 @@ export default function HomePage() {
               <div>
                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6">Hakkımızda</h2>
                 <p className="text-base sm:text-lg text-gray-600 mb-4 sm:mb-6 leading-relaxed">
-                  ÖN-NE İnşaat olarak, 25 yıllık deneyimimizle Türkiye'nin önde gelen inşaat firmalarından biriyiz.
-                  Kalite, güvenilirlik ve müşteri memnuniyeti odaklı yaklaşımımızla sektörde fark yaratıyoruz.
+                  Ön-Ne İnşaat, bünyesindeki Ün-Ka İnşaat, Ünlü Mimarlık/Mühendislik ve NCSA Elektrik Mekanik gibi
+                  uzman iştirakleriyle yapı sektöründe güvenli, estetik ve teknolojik projelere imza atar.
                 </p>
                 <p className="text-base sm:text-lg text-gray-600 mb-6 sm:mb-8 leading-relaxed">
-                  Modern teknolojiler ve deneyimli ekibimizle, konut projelerinden ticari yapılara kadar geniş bir
-                  yelpazede hizmet sunuyoruz.
+                  Güçlü iş birliği, modern tasarımlar ve mühendislik çözümleriyle geleceğin yapılarını inşa eder.
                 </p>
 
                 <StaggeredReveal staggerDelay={100} className="grid sm:grid-cols-2 gap-4 sm:gap-6 mb-6 sm:mb-8">

@@ -7,9 +7,9 @@ export default function StructuredData() {
     "name": "ON-NE İnşaat",
     "description": "ON-NE İnşaat olarak modern ve güvenli yapılar inşa ediyoruz. İzmir ve çevresinde kaliteli konut, ticari ve endüstriyel projeler.",
     "url": "https://onneinsaat.com",
-    "logo": "https://onneinsaat.com/images/onne-logo.png",
-    "image": "https://onneinsaat.com/images/onne-logo.png",
-    "telephone": "+90-XXX-XXX-XXXX", // Gerçek telefon numarası eklenecek
+    "logo": "https://onneinsaat.com/onneyeni.png",
+    "image": "https://onneinsaat.com/onneyeni.png",
+    "telephone": "+90-532-138-0565",
     "email": "info@onneinsaat.com", // Gerçek email adresi eklenecek
     "address": {
       "@type": "PostalAddress",

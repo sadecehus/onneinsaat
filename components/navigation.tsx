@@ -23,11 +23,11 @@ export function Navigation() {
           {/* Left Logo - ÖN-NE */}
           <Link href="/" className="flex-shrink-0 transition-transform px-8 duration-300 hover:scale-105">
             <Image
-              src="/images/onne-logo.png"
+              src="/onneyeni.png"
               alt="ÖN-NE İnşaat"
               width={160}
-              height={80}
-              className="h-12 lg:h-28 w-auto"
+              height={160}
+              className="h-10 lg:h-16 w-auto"
               priority
             />
           </Link>
@@ -84,7 +84,7 @@ export function Navigation() {
             {/* Mobile Logos */}
             <div className="flex items-center justify-between mb-4 px-3">
               <Link href="/" className="transition-transform duration-300 hover:scale-105">
-                <Image src="/images/onne-logo.png" alt="ÖN-NE İnşaat" width={130} height={65} className="h-10 w-auto" />
+                <Image src="/onneyeni.png" alt="ÖN-NE İnşaat" width={130} height={130} className="h-9 w-auto" />
               </Link>
               <Link href="#" className="transition-transform duration-300 hover:scale-105">
                 <Image

@@ -28,7 +28,7 @@ export default function ContactPage() {
         <>
           Tel: 0432 216 49 46
           <br />
-          GSM: 0532 502 31 35
+          GSM: 0532 138 05 65
           <br />
           Fax: 0432 216 18 81
         </>

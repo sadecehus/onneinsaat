@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     siteName: 'ON-NE İnşaat',
     images: [
       {
-        url: '/images/onne-logo.png',
+        url: '/onneyeni.png',
         width: 1200,
         height: 630,
         alt: 'ON-NE İnşaat - Modern İnşaat Firması Logo',
@@ -95,7 +95,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'ON-NE İnşaat - Modern Yapılar, Güvenli Gelecek',
     description: 'ON-NE İnşaat olarak modern ve güvenli yapılar inşa ediyoruz. İzmir ve çevresinde kaliteli konut, ticari ve endüstriyel projeler.',
-    images: ['/images/onne-logo.png'],
+    images: ['/onneyeni.png'],
     creator: '@onneinsaat',
     site: '@onneinsaat',
   },

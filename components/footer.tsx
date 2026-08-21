@@ -11,7 +11,7 @@ export function Footer() {
           <div className="sm:col-span-2 transform transition-all duration-500 hover:translate-y-[-2px]">
             <div className="flex items-center mb-3 sm:mb-4 justify-center mx-auto">
               <Image
-                src="/images/onne-logo.png"
+                src="/onneyeni.png"
                 alt="ÖN-NE İnşaat"
                 width={300}
                 height={150}
@@ -56,7 +56,7 @@ export function Footer() {
 İpekyolu/Van</p>
             <p className="text-xs sm:text-sm text-gray-600 mb-2">TEL : 0432 216 49 46</p>
             <p className="text-xs sm:text-sm text-gray-600 mb-2">FAX : 0432 216 18 81</p>
-            <p className="text-xs sm:text-sm text-gray-600 mb-2">GSM : 0532 502 31 35</p>
+            <p className="text-xs sm:text-sm text-gray-600 mb-2">GSM : 0532 138 05 65</p>
             <p className="text-xs sm:text-sm text-gray-600">info@on-neinsaat.com</p>
           </div>
         </StaggeredReveal>
